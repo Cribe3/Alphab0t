@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://api.zeeoneofc.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
-global.self_mode = false
+global.self_mode = true
 global.autobio = true
 global.msg_connected = false
 global.user_register = false
